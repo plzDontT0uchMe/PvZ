@@ -1,0 +1,59 @@
+﻿  Main.cpp
+c:\users\mikk1\downloads\plants vs. zombie\plants vs. zombie\zombie.h(47): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+c:\users\mikk1\downloads\plants vs. zombie\plants vs. zombie\zombie.h(203): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+c:\users\mikk1\downloads\plants vs. zombie\plants vs. zombie\zombie.h(207): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+c:\users\mikk1\downloads\plants vs. zombie\plants vs. zombie\suns.h(20): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+c:\users\mikk1\downloads\plants vs. zombie\plants vs. zombie\suns.h(30): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+c:\users\mikk1\downloads\plants vs. zombie\plants vs. zombie\suns.h(62): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+c:\users\mikk1\downloads\plants vs. zombie\plants vs. zombie\camera.h(38): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+c:\users\mikk1\downloads\plants vs. zombie\plants vs. zombie\camera.h(49): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+c:\users\mikk1\downloads\plants vs. zombie\plants vs. zombie\plantsbar.h(34): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+c:\users\mikk1\downloads\plants vs. zombie\plants vs. zombie\plantsbar.h(39): warning C4305: аргумент: усечение из "double" в "float"
+c:\users\mikk1\downloads\plants vs. zombie\plants vs. zombie\plantsbar.h(40): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+c:\users\mikk1\downloads\plants vs. zombie\plants vs. zombie\plantsbar.h(45): warning C4305: аргумент: усечение из "double" в "float"
+c:\users\mikk1\downloads\plants vs. zombie\plants vs. zombie\plantsbar.h(46): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+c:\users\mikk1\downloads\plants vs. zombie\plants vs. zombie\plantsbar.h(51): warning C4305: аргумент: усечение из "double" в "float"
+c:\users\mikk1\downloads\plants vs. zombie\plants vs. zombie\plantsbar.h(52): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+c:\users\mikk1\downloads\plants vs. zombie\plants vs. zombie\plantsbar.h(122): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+c:\users\mikk1\downloads\plants vs. zombie\plants vs. zombie\progressbar.h(86): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+c:\users\mikk1\downloads\plants vs. zombie\plants vs. zombie\plants.h(83): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+c:\users\mikk1\downloads\plants vs. zombie\plants vs. zombie\plants.h(116): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+c:\users\mikk1\downloads\plants vs. zombie\plants vs. zombie\plants.h(152): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+c:\users\mikk1\downloads\plants vs. zombie\plants vs. zombie\plants.h(205): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+c:\users\mikk1\downloads\plants vs. zombie\plants vs. zombie\plants.h(309): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+c:\users\mikk1\downloads\plants vs. zombie\plants vs. zombie\plants.h(362): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+c:\users\mikk1\downloads\plants vs. zombie\plants vs. zombie\plants.h(425): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+c:\users\mikk1\downloads\plants vs. zombie\plants vs. zombie\plants.h(478): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+c:\users\mikk1\downloads\plants vs. zombie\plants vs. zombie\lawnmower.h(21): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+c:\users\mikk1\downloads\plants vs. zombie\plants vs. zombie\lawnmower.h(48): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+c:\users\mikk1\downloads\plants vs. zombie\plants vs. zombie\lawnmower.h(51): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+c:\users\mikk1\downloads\plants vs. zombie\plants vs. zombie\game.h(145): warning C4244: =: преобразование "sf::Int32" в "float", возможна потеря данных
+c:\users\mikk1\downloads\plants vs. zombie\plants vs. zombie\game.h(264): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+c:\users\mikk1\downloads\plants vs. zombie\plants vs. zombie\game.h(313): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+c:\users\mikk1\downloads\plants vs. zombie\plants vs. zombie\game.h(314): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+c:\users\mikk1\downloads\plants vs. zombie\plants vs. zombie\game.h(330): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+c:\users\mikk1\downloads\plants vs. zombie\plants vs. zombie\game.h(331): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+c:\users\mikk1\downloads\plants vs. zombie\plants vs. zombie\game.h(347): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+c:\users\mikk1\downloads\plants vs. zombie\plants vs. zombie\game.h(348): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+c:\users\mikk1\downloads\plants vs. zombie\plants vs. zombie\gamemenu.h(31): warning C4305: аргумент: усечение из "double" в "float"
+c:\users\mikk1\downloads\plants vs. zombie\plants vs. zombie\gamemenu.h(35): warning C4305: аргумент: усечение из "double" в "float"
+c:\users\mikk1\downloads\plants vs. zombie\plants vs. zombie\gamemenu.h(41): warning C4305: аргумент: усечение из "double" в "float"
+c:\users\mikk1\downloads\plants vs. zombie\plants vs. zombie\gamemenu.h(45): warning C4305: аргумент: усечение из "double" в "float"
+c:\users\mikk1\downloads\plants vs. zombie\plants vs. zombie\gamemenu.h(52): warning C4305: аргумент: усечение из "double" в "float"
+c:\users\mikk1\downloads\plants vs. zombie\plants vs. zombie\gamemenu.h(53): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+c:\users\mikk1\downloads\plants vs. zombie\plants vs. zombie\gamemenu.h(62): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+c:\users\mikk1\downloads\plants vs. zombie\plants vs. zombie\gamemenu.h(69): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+c:\users\mikk1\downloads\plants vs. zombie\plants vs. zombie\gamemenu.h(76): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+c:\users\mikk1\downloads\plants vs. zombie\plants vs. zombie\gamemenu.h(83): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+c:\users\mikk1\downloads\plants vs. zombie\plants vs. zombie\settings.h(31): warning C4305: аргумент: усечение из "double" в "float"
+c:\users\mikk1\downloads\plants vs. zombie\plants vs. zombie\settings.h(35): warning C4305: аргумент: усечение из "double" в "float"
+c:\users\mikk1\downloads\plants vs. zombie\plants vs. zombie\settings.h(41): warning C4305: аргумент: усечение из "double" в "float"
+c:\users\mikk1\downloads\plants vs. zombie\plants vs. zombie\settings.h(45): warning C4305: аргумент: усечение из "double" в "float"
+c:\users\mikk1\downloads\plants vs. zombie\plants vs. zombie\settings.h(52): warning C4305: аргумент: усечение из "double" в "float"
+c:\users\mikk1\downloads\plants vs. zombie\plants vs. zombie\settings.h(53): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+c:\users\mikk1\downloads\plants vs. zombie\plants vs. zombie\settings.h(62): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+c:\users\mikk1\downloads\plants vs. zombie\plants vs. zombie\settings.h(70): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+c:\users\mikk1\downloads\plants vs. zombie\plants vs. zombie\settings.h(77): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+c:\users\mikk1\downloads\plants vs. zombie\plants vs. zombie\main.cpp(65): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+c:\users\mikk1\downloads\plants vs. zombie\plants vs. zombie\plantsbar.h(158): warning C4715: PlantsBar::getSelectTypeImg: значение возвращается не при всех путях выполнения
+  Plants vs. Zombie.vcxproj -> C:\Users\mikk1\Downloads\Plants vs. Zombie\x64\Debug\Plants vs. Zombie.exe
